@@ -2,7 +2,7 @@
 
 ## pizze klasyczne
 
-<img src = "fghdfghdfhfg.jpg" width = 300>
+<img src = "img/bvgnhvm.jpg" width = 300>
 
 |Lp. |Pizza:  |rozmiar: |30cm |50cm |60cm |
 |---|--------------------------------------|---|-------------|--|--|
